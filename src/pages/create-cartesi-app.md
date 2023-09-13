@@ -53,24 +53,31 @@ team:
     image: "https://picsum.photos/500/500?random=3"
 ---
 
-# Heading 1
+# Create-Cartesi-App: Simplify Your Cartesi Application Development
 
-Lorem Ipsum is **simply dummy** text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Create-Cartesi-App is a powerful NPX package designed to streamline the process of creating Cartesi applications (CartApps). This tool empowers developers with an efficient boilerplate setup, allowing you to dive straight into Cartesi app development without the hassle of manual configurations.
 
-## Heading 2
 
-> Somewhere, something incredible is waiting to be known
 
-## Heading 3
+## What is Create-Cartesi-App?
 
-## Heading 4
+Create-Cartesi-App is your gateway to building Cartesi applications effortlessly. Whether you're a seasoned blockchain developer or just getting started, this NPX package simplifies the Cartesi app creation process, saving you time and effort.
 
-## Heading 5
+## Features
 
-- List item 1
-- List item 2
-- List item 3
+- *Effortless Setup*: Say goodbye to complex setup procedures. Create-Cartesi-App automates the initial configuration, so you can focus on coding.
 
-1. List item 1
-2. List item 2
-3. List item 3
+- *Linux Compatibility*: Harness the power of Cartesi's Linux environment within your CartApps.
+
+- *Scalability*: Seamlessly scale your CartApps while maintaining security and trust through off-chain computations.
+
+- *Decentralized Computation*: Execute smart contracts with off-chain computations for real-world data access and complex processing.
+
+- *User-Friendly*: Enjoy a developer-friendly experience, reducing the learning curve for Cartesi app development.
+## Getting Started
+With Create-Cartesi-App, you can kickstart your Cartesi app project in minutes:
+```
+npx create-cartesi-app my-cartesi-app
+```
+This command will set up a Cartesi app boilerplate with all the necessary configurations, allowing you to start coding immediately.
+
